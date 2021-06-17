@@ -1,7 +1,7 @@
 # クイズゲーム
 
 ## アプリケーションのURL
-https://samanosuke-akechi.github.io/anime_comic_quiz/index.html  
+https://samanosuke-akechi.github.io/anime-comic-quiz/  
 <br>
 ## 利用方法
 選択式のクイズゲームです。出題される問題に対して選択肢が出るので、正解と思うものをクリックしてください。  
